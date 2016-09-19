@@ -1,0 +1,57 @@
+Timesheet
+
+April 7th, 2016: 4:00 – 5:15 pm - 1.25 hours
+- Parkinsons Disease Research to determine types of exercises
+- Met with Audrey to check term project idea 
+
+April 9th, 2016: 5:30 – 10:00 pm - 4.5 hours
+- Downloaded windows 8.1 needed for Kinect modules
+- Downloaded anaconda, pykinect2, and other Modules/packages needed to code with Kinect
+
+April 11th, 2016: 9:30 am - 2:30 pm - 5 hours
+- Project Proposal
+- Storyboard and competitive analysis
+
+April 11th, 2016: 7:30 - 10:30 pm - 3 hours
+- Determine overall structure of the program and how to integrate kinect and pygame with different games
+- Pseudocode Fruit Ninja and try to code it on visual studio
+
+April 16th, 2016: 6:30 - 9:30 - 3 hours
+- Figured out how to load images and put background for fruit ninja
+- Polished up fruit ninja with cut fruit falling
+- Added features about showing exercise if too many misses or switching to another game if score is 25
+
+April 18th, 2016: 9:30 - 1:45 - 4.25 hours
+- UI for the start screen and figure out how to make an image into a sprite
+- Algorithm to figure out how to make the kinect sense if they are stretching
+
+April 19th, 2016: 10 - 12 - 2 hours
+- Determined how to make a soccer ball image a sprite and move it around with leg movements
+- Find optimal location for the goal and randomize locations
+- Do transitions between the soccer game and the stretches related to soccer
+
+April 20th, 2016: 8:30 - 12:30 - 4 hours
+- Make the leg movements less jerky
+- Make the ball move better and the collision between the two
+- Have people test it and see where the UI can be improved
+
+April 22th, 2016: 4:00 - 8:00 - 4 hours
+- Determine how to make the boxing glove move
+- Determine the background/player screen
+- load the image for boxing glove and make that move
+- load the image for soccer ball and make that move
+- insert actual hand pics for the fruit ninja game
+
+April 24th, 2016: 6:30 -11:00 - 4.5 hours
+- Determine how to show the player on the screen for boxing
+- convert kinect output to pixels for the player shown on screen
+- rearrange the order of the games
+- show messages for how to play the game
+
+April 26th, 2016: 2:00-7:00 - 5 hours
+- Make the soccer easier according to the feedback from class
+- Make the goal bigger for soccer
+- Work on style of the code
+- last minute polishing
+
+Total hours: 40.5 hours
